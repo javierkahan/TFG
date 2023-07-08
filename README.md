@@ -17,4 +17,19 @@
 - Descomprimir archivo descargado
 
 ### Opción 2 - Clonar Repositorio
-- Debe estar registrado y poseer el cliente git ( )
+- Requisito cliente git ( https://git-scm.com/downloads )
+- Ejecutar desde la linea de comando
+
+```git clone https://github.com/javierkahan/TFG.git```
+
+***
+
+## Demo
+Archivo de video mostrando el flujo de las pantallas en el directorio ```demo```
+
+***
+
+## Código
+[Instrucciones pendientes]
+
+***
